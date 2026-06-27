@@ -1,3 +1,21 @@
 spring:
   application:
     name: sim-backend
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sim_db
+    username: postgres
+    password: Afnan786.
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+    show-sql: true
+
+    properties:
+      hibernate:
+        format_sql: true
+
+server:
+  port: 8080
