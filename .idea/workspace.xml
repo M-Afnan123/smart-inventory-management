@@ -5,12 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a8f366d-cbad-43f7-b408-424855521108" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/backend/sim-backend/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/auth/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/category/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/common/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/config/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/customer/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/exception/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/inventory/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/product/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/purchase/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/report/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/sales/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/security/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/shared/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/supplier/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/sim-backend/src/main/java/com/afnan/sim/warehouse/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,16 +76,32 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Spring Boot.SimBackendApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "#3 on feature/SCRUM-9-configure-postgresql",
+    "git-widget-placeholder": "feature/SCRUM-14-layered-project-structure",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Project/smart-inventory-management",
+    "last_opened_file_path": "D:/Project/smart-inventory-management/backend/sim-backend/src/main/java/com/afnan/sim/warehouse",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\smart-inventory-management\backend\sim-backend\src\main\java\com\afnan\sim\warehouse" />
+      <recent name="D:\Project\smart-inventory-management\backend\sim-backend\src\main\java\com\afnan\sim\supplier" />
+      <recent name="D:\Project\smart-inventory-management\backend\sim-backend\src\main\java\com\afnan\sim\shared" />
+      <recent name="D:\Project\smart-inventory-management\backend\sim-backend\src\main\java\com\afnan\sim\security" />
+      <recent name="D:\Project\smart-inventory-management\backend\sim-backend\src\main\java\com\afnan\sim\sales" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.afnan.sim.warehouse" />
+      <recent name="com.afnan.sim.supplier" />
+      <recent name="com.afnan.sim.shared" />
+      <recent name="com.afnan.sim.security" />
+      <recent name="com.afnan.sim.sales" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.SimBackendApplication">
     <configuration name="SimBackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.afnan.sim.SimBackendApplication" />
